@@ -1,0 +1,7 @@
+com\luma\steps\WomentestSteps.class
+com\luma\runners\SmokeRunner.class
+com\luma\steps\MenTestSteps.class
+com\luma\runners\RegressionRunner.class
+com\luma\Hooks.class
+com\luma\runners\SanityRunner.class
+com\luma\steps\GearTest.class
